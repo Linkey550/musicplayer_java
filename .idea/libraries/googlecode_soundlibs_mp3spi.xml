@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="googlecode.soundlibs.mp3spi" type="repository">
+    <properties maven-id="com.googlecode.soundlibs:mp3spi:1.9.5.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mp3spi-1.9.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jlayer-1.0.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tritonus-share-0.3.7.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/mp3spi-1.9.5.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jlayer-1.0.1.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tritonus-share-0.3.7.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/mp3spi-1.9.5.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jlayer-1.0.1.4-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tritonus-share-0.3.7.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
